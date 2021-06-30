@@ -1,0 +1,44 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/admin/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_01276e22"
+  },
+  {
+    "name": "category",
+    "path": "/category",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/admin/pages/category.vue",
+    "chunkName": "pages/category",
+    "_name": "_6883acf9"
+  },
+  {
+    "name": "owner",
+    "path": "/owner",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/admin/pages/owner.vue",
+    "chunkName": "pages/owner",
+    "_name": "_520e3a48"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/admin/pages/products/index.vue",
+    "chunkName": "pages/products/index",
+    "_name": "_44ce21a2"
+  },
+  {
+    "name": "products-id",
+    "path": "/products/:id",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/admin/pages/products/_id.vue",
+    "chunkName": "pages/products/_id",
+    "_name": "_7b5c248a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/admin/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_20df48e7"
+  }
+]

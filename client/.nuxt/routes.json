@@ -1,0 +1,100 @@
+[
+  {
+    "name": "address",
+    "path": "/address",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/client/pages/address/index.vue",
+    "chunkName": "pages/address/index",
+    "_name": "_0841d578"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/client/pages/cart.vue",
+    "chunkName": "pages/cart",
+    "_name": "_062fc02f"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/client/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_4f3bf1ea"
+  },
+  {
+    "name": "orders",
+    "path": "/orders",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/client/pages/orders.vue",
+    "chunkName": "pages/orders",
+    "_name": "_312e7bb4"
+  },
+  {
+    "name": "payment",
+    "path": "/payment",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/client/pages/payment.vue",
+    "chunkName": "pages/payment",
+    "_name": "_04cc27c7"
+  },
+  {
+    "name": "placeorder",
+    "path": "/placeorder",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/client/pages/placeorder.vue",
+    "chunkName": "pages/placeorder",
+    "_name": "_60bb2214"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/client/pages/profile.vue",
+    "chunkName": "pages/profile",
+    "_name": "_6b33f5ea"
+  },
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/client/pages/search.vue",
+    "chunkName": "pages/search",
+    "_name": "_4e973612"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/client/pages/signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_36c78f32"
+  },
+  {
+    "name": "address-add",
+    "path": "/address/add",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/client/pages/address/add.vue",
+    "chunkName": "pages/address/add",
+    "_name": "_0bfb1147"
+  },
+  {
+    "name": "address-id",
+    "path": "/address/:id",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/client/pages/address/_id.vue",
+    "chunkName": "pages/address/_id",
+    "_name": "_aa925440"
+  },
+  {
+    "name": "products-id",
+    "path": "/products/:id?",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/client/pages/products/_id.vue",
+    "chunkName": "pages/products/_id",
+    "_name": "_7a7cdd1e"
+  },
+  {
+    "name": "reviews-id",
+    "path": "/reviews/:id?",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/client/pages/reviews/_id.vue",
+    "chunkName": "pages/reviews/_id",
+    "_name": "_5577d1f2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/sanyamgarg/Documents/sublime/webd/Amazon/client/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_f4d7625a"
+  }
+]
